@@ -1,0 +1,71 @@
+/* #the-founders{
+    font-size: 29px;
+    width: 150%;
+} */
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #49c5fc;
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+  background: transparent;
+}
+.prevent-select {
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.ud-menu-scroll {
+  text-decoration: none;
+}
+form {
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+.req-span {
+  color: red;
+}
+#gagan {
+  margin-top: 20px;
+  margin-left: 10px;
+  height: 150px;
+  width: 150px;
+}
+#aman {
+  /* padding: ; */
+  /* border: 2px solid black; */
+  padding-bottom: 10px;
+  height: 180px;
+  width: 190px;
+}
+#aman-outer {
+  width: 200px;
+  /* border: 2px solid black; */
+}
+#aman-kumar {
+  margin-top: 10px;
+  margin-left: 0px;
+  height: 160px;
+  width: 250px;
+}
+#team-mates {
+  /* border: 2px solid black; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#contact-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
